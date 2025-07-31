@@ -1,1 +1,2 @@
 # school-managment
+hello project
