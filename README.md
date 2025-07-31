@@ -1,2 +1,3 @@
 # school-managment
-hello project
+#install laravel
+#composer create-project larave/laravel
