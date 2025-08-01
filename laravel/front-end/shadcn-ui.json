@@ -1,0 +1,6 @@
+{
+  "components": "ui",
+  "componentPath": "src/components",
+  "basePath": "src",
+  "importAlias": "@"
+}

@@ -12,3 +12,9 @@
 #npm run dev
 #installing router
 #npm install react-router-dom
+#install tailwind & shad cn
+#npm install -D tailwindcss tailwindcss-cli postcss autoprefixer
+#npx tailwindcss-cli init -p
+#creation shadcn-ui.json file
+#install zod for validation 
+#npm install zod
